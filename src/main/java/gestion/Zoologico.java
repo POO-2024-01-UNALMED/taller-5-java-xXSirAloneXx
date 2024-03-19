@@ -1,7 +1,5 @@
 package gestion;
 import java.util.ArrayList;
-import java.util.Iterator;
-import zooAnimales.Animal;
 
 public class Zoologico {
 	private String nombre;
